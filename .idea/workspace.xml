@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="389cf03a-ce35-4ad9-a73b-8f7b3aecce38" name="Default Changelist" comment="" />
+    <list default="true" id="389cf03a-ce35-4ad9-a73b-8f7b3aecce38" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,13 +30,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UoTHicSJcUbtpz5iztTrHyrded" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -82,7 +89,7 @@
       <workItem from="1576326170855" duration="583000" />
       <workItem from="1576410984058" duration="29000" />
       <workItem from="1576411418909" duration="2446000" />
-      <workItem from="1576926109804" duration="5068000" />
+      <workItem from="1576926109804" duration="5816000" />
     </task>
     <servers />
   </component>
@@ -106,22 +113,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="957" y="283" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1576926156499" />
-    <state width="1230" height="159" key="GridCell.Tab.0.bottom" timestamp="1576935171825">
+    <state width="1230" height="159" key="GridCell.Tab.0.bottom" timestamp="1576938271769">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1230" height="159" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1576935171825" />
-    <state width="1230" height="159" key="GridCell.Tab.0.center" timestamp="1576935171824">
+    <state width="1230" height="159" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1576938271769" />
+    <state width="1230" height="159" key="GridCell.Tab.0.center" timestamp="1576938271769">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1230" height="159" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1576935171824" />
-    <state width="1230" height="159" key="GridCell.Tab.0.left" timestamp="1576935171824">
+    <state width="1230" height="159" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1576938271769" />
+    <state width="1230" height="159" key="GridCell.Tab.0.left" timestamp="1576938271769">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1230" height="159" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1576935171824" />
-    <state width="1230" height="159" key="GridCell.Tab.0.right" timestamp="1576935171825">
+    <state width="1230" height="159" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1576938271769" />
+    <state width="1230" height="159" key="GridCell.Tab.0.right" timestamp="1576938271769">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1230" height="159" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1576935171825" />
+    <state width="1230" height="159" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1576938271769" />
     <state x="199" y="333" key="refactoring.ChangeSignatureDialog" timestamp="1576025873828">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
